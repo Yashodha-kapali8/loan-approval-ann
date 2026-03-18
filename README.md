@@ -108,7 +108,7 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-**Your Name**
-Yashodha Kapali
+**Yashodha Kapali**
+
 ---
 
