@@ -82,7 +82,7 @@ This project builds a machine learning model to automate loan approval decisions
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/loan-approval-ann.git
+git clone https://github.com/Yashodha-kapali8/loan-approval-ann.git
 cd loan-approval-ann
 pip install -r requirements.txt
 jupyter notebook
